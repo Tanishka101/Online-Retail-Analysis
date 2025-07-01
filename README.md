@@ -2,15 +2,12 @@
 
 This project provides a data analysis of customer transactions from a UK-based online retail company. Using the publicly available dataset from the UCI Machine Learning Repository, the analysis uncovers insights into top selling products, sales trends, and country wise contributions. Visualizations and percentage based comparisons highlight key patterns that support data driven business decisions.
 
-
 ## Dataset Source
 
 - **UCI Repository**: [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 - **File Name**: `online_retail.xlsx`
 - **Records**: 500,000+
 - **Features**: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
-
----
 
 ## Project Objectives
 
@@ -23,15 +20,11 @@ This project provides a data analysis of customer transactions from a UK-based o
 - Visualize sales trends using bar charts and other plots
 - Generate actionable insights for business decisions
 
----
-
 ## Key Insights
 
 - Identified top 5 products contributing highest sales
 - Country wise breakdown of product demand
 - Visual representation of product contributions using horizontal bar charts
-
----
 
 ## Project Structure
 
